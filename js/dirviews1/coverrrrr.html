@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#ww
+{
+    height:400px;
+    width:400px;
+    position:relative;
+}
+
+#image
+{    
+    position:relative;
+    left:600px;
+    top:0;
+}
+#text
+{
+    z-index:100;
+    position:absolute;    
+    color:black;
+    font-size:24px;
+    font-weight:bold;
+    left:800px;
+    top:500px;
+}
+#textt
+{
+    z-index:100;
+    position:absolute;    
+    color:black;
+    font-size:24px;
+    font-weight:bold;
+    left:800px;
+    top:600px;
+}
+
+</style>
+</head>
+<body>
+
+
+    <img id="image" src="white.jpg" width="750" height="1000"/>
+    <p>
+      <div id="text"  ng-transclude>"{{PostDataResponse.quote}}"</div><br>
+      <div id="textt" ng-transclude> {{PostDataResponse.author}}</div><br>
+                 
+    </p>
+    
+</body>
+
+
+
+</html>

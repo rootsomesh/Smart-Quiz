@@ -1,0 +1,423 @@
+[
+	{
+		"question" : "total number of hidden words hidden words in this fishing image?",
+                "qimage":"http://i0.wp.com/puzzlersworld.com/wp/wp-content/uploads/2016/02/6hiddenwordsR9.jpg?w=700",
+		"answers"  : [
+			{"id"  : 0, "text" : "5"},
+			{"id"  : 1, "text" : "6"},
+			{"id"  : 2, "text" : "7"},
+			{"id"  : 3, "text" : "8"}
+		],
+		"correct"  : 1
+	},
+	{
+		"question" : "Guess the total amount from the picture given below?",
+                "qimage":"http://i1.wp.com/puzzlersworld.com/wp/wp-content/uploads/2016/01/guess-the-amount-puzzle.jpg?w=918",
+		"answers"  : [
+			{"id"  : 0, "text" : "1688" },
+			{"id"  : 1,"text" : "168" },
+			{"id"  : 2, "text" : "1000" },
+			{"id"  : 3, "text" : "900" }
+		],
+		"correct"  : 1
+	},
+	{
+		"question" : "guess the name of person with no. 101",
+
+                "qimage":"http://i1.wp.com/puzzlersworld.com/wp/wp-content/uploads/2015/10/IMG-20151004-WA0000.jpg?w=1600",
+		"answers"  : [
+			{"id"  : 0, "text" : "benjamin franklin"},
+			{"id"  : 1, "text" : "roosvelt"},
+			{"id"  : 2, "text" : "carnegie mellon"},
+			{"id"  : 3, "text" : "albert einstein"}
+		],
+		"correct"  : 3
+	},
+	{
+		"question" : "guess name of 11th country?",
+                 
+                "qimage":"http://i1.wp.com/puzzlersworld.com/wp/wp-content/uploads/2015/10/guess-12-country-names-from-whatsapp-emoticons.png?w=419",
+		"answers"  : [
+			{"id"  : 0, "text" : "libya"},
+			{"id"  : 1, "text" : "Europa"},
+			{"id"  : 2, "text" : "kuwait"},
+			{"id"  : 3, "text" : "greece"}
+			
+		],
+		"correct"  : 1
+		
+	},
+
+	{
+		"question" : "Guess the number of people in the office from the below picture",
+                 "qimage":"http://i1.wp.com/puzzlersworld.com/wp/wp-content/uploads/2015/09/how-many-persons-in-the-office.jpg?w=960",
+		"answers"  : [
+			{"id"  : 0, "text" : "5"},
+			{"id"  : 1, "text" : "6"},
+			{"id"  : 2, "text" : "7"},
+			{"id"  : 3, "text" : "8"}
+			
+		],
+		"correct"  : 3
+	}
+,
+
+	{
+		"question" : "How many fingers are there in this picture?",
+                 "qimage":"http://puzzlersworld.com/picture-puzzles/how-many-fingers/",
+		"answers"  : [
+			{"id"  : 0, "text" : "100"},
+			{"id"  : 1, "text" : "120"},
+			{"id"  : 2, "text" : "124"},
+			{"id"  : 3, "text" : "30"}
+			
+		],
+		"correct"  : 2
+	}
+
+
+,
+
+	{
+		"question" : "Guess these 7th bollywood heroines from their smile?",
+                 "qimage":"http://i2.wp.com/puzzlersworld.com/wp/wp-content/uploads/2015/08/Guess-bollywood-heroines-from-smile-puzzle.jpg?w=720",
+		"answers"  : [
+			{"id"  : 0, "text" : "kareena kapoor"},
+			{"id"  : 1, "text" : "deepika padukone"},
+			{"id"  : 2, "text" : "priyanka chopra"},
+			{"id"  : 3, "text" : "vidya balan"}
+			
+		],
+		"correct"  : 1
+	}
+,
+
+	{
+		 "question" : "guess the hidden city name in given picture",
+                 "qimage":"http://i0.wp.com/puzzlersworld.com/wp/wp-content/uploads/2015/07/Hidden-city-name-in-lord-ganesh-pic.jpg?w=360",
+		 "answers"  : [
+			{"id"  : 0, "text" : "latur"},
+			{"id"  : 1, "text" : "panvel"},
+			{"id"  : 2, "text" : "jabalpur"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 2
+	}
+
+,
+
+	{
+		 "question" : "How many tigers?",
+                 "qimage":"http://i0.wp.com/puzzlersworld.com/wp/wp-content/uploads/2015/07/how-many-tigers.jpg?w=470",
+		 "answers"  : [
+			{"id"  : 0, "text" : "10"},
+			{"id"  : 1, "text" : "14"},
+			{"id"  : 2, "text" : "15"},
+			{"id"  : 3, "text" : "16"}
+			
+		],
+		"correct"  : 1
+	}
+
+,
+
+	{
+		 "question" : "Guess  fifth  musical intrument ?",
+                 "qimage":"http://i0.wp.com/puzzlersworld.com/wp/wp-content/uploads/2015/06/guess-musical-instruments-2.png?resize=255%2C512",
+		 "answers"  : [
+			{"id"  : 0, "text" : "piano"},
+			{"id"  : 1, "text" : "fuluet"},
+			{"id"  : 2, "text" : "Tambour"},
+			{"id"  : 3, "text" : "tabla"}
+			
+		],
+		"correct"  : 2
+	}
+
+,
+
+	{
+		 "question" : "Can you read the words in the picture ?",
+                 "qimage":"http://i0.wp.com/puzzlersworld.com/wp/wp-content/uploads/2015/03/picture-puzzles-bro1.png?w=395",
+		 "answers"  : [
+			{"id"  : 0, "text" : "blue punk"},
+			{"id"  : 1, "text" : "big bass"},
+			{"id"  : 2, "text" : "bad eyes"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 2
+	}
+,
+
+	{
+		 "question" : "number of triangles in this pic ?",
+                 "qimage":"http://i2.wp.com/puzzlersworld.com/wp/wp-content/uploads/2015/02/IMG-20150216-WA0011.jpg?resize=278%2C300",
+		 "answers"  : [
+			{"id"  : 0, "text" : "22"},
+			{"id"  : 1, "text" : "24"},
+			{"id"  : 2, "text" : "9"},
+			{"id"  : 3, "text" : "10"}
+			
+		],
+		"correct"  : 1
+	}
+,
+
+	{
+		 "question" : "how many alphabet in this picture?",
+                 "qimage":"http://i1.wp.com/puzzlersworld.com/wp/wp-content/uploads/2015/02/10967020_612697462165664_98353214_n-1.jpg?resize=474%2C296",
+		 "answers"  : [
+			{"id"  : 0, "text" : "1"},
+			{"id"  : 1, "text" : "2"},
+			{"id"  : 2, "text" : "0"},
+			{"id"  : 3, "text" : "5"}
+			
+		],
+		"correct"  : 3
+	}
+,
+
+	{
+		 "question" : "Identify number of famous personalities in the below picture?",
+                 "qimage":"http://i0.wp.com/puzzlersworld.com/wp/wp-content/uploads/2014/08/identify-3-famous-personalities.jpg?resize=302%2C422",
+		 "answers"  : [
+			{"id"  : 0, "text" : "2"},
+			{"id"  : 1, "text" : "3"},
+			{"id"  : 2, "text" : "4"},
+			{"id"  : 3, "text" : "5"}
+			
+		],
+		"correct"  : 1
+	}
+,
+
+	{
+		 "question" : "3/7 Chicken, 2/3 cat and 1/2 goat guess city name?",
+                 "qimage":"http://i0.wp.com/puzzlersworld.com/wp/wp-content/uploads/2014/04/chicken-cat-and-goat.jpg?w=403",
+		 "answers"  : [
+			{"id"  : 0, "text" : "manhattan"},
+			{"id"  : 1, "text" : "narobi"},
+			{"id"  : 2, "text" : "chicago"},
+			{"id"  : 3, "text" : "none"}			
+		],
+		"correct"  : 2
+	}
+,
+
+	{
+		 "question" : "Find out the weight of the rabbit, cat and dog from the below picture",
+                 "qimage":"http://puzzlersworld.com/picture-puzzles/rabbit-cat-dog-weighing-scale/",
+		 "answers"  : [
+			{"id"  : 0, "text" : "22"},
+			{"id"  : 1, "text" : "25"},
+			{"id"  : 2, "text" : "27"},
+			{"id"  : 3, "text" : "29"}
+			
+		],
+		"correct"  : 2
+	}
+,
+
+	{
+		 "question" : "Guess hidden word in picture",
+                 "qimage":"http://i0.wp.com/puzzlersworld.com/wp/wp-content/uploads/2014/04/Guess-hidden-word-in-picture.jpg?resize=405%2C424",
+		 "answers"  : [
+			{"id"  : 0, "text" : "oooh"},
+			{"id"  : 1, "text" : "love"},
+			{"id"  : 2, "text" : "hump"},
+			{"id"  : 3, "text" : "liar"}
+			
+		],
+		"correct"  : 3
+	}
+,
+
+	{
+		 "question" : "How many pencils?",
+                 "qimage":"http://i0.wp.com/puzzlersworld.com/wp/wp-content/uploads/2014/04/How-many-pencils.jpg?w=700",
+		 "answers"  : [
+			{"id"  : 0, "text" : "24"},
+			{"id"  : 1, "text" : "36"},
+			{"id"  : 2, "text" : "72"},
+			{"id"  : 3, "text" : "96"}
+			
+		],
+		"correct"  : 2
+	}
+,
+
+	{
+		 "question" : "How many legs on the floor?",
+                 "qimage":"http://i1.wp.com/puzzlersworld.com/wp/wp-content/uploads/2013/12/how-many-legs-on-the-floor.jpg?w=700",
+		 "answers"  : [
+			{"id"  : 0, "text" : "10"},
+			{"id"  : 1, "text" : "2"},
+			{"id"  : 2, "text" : "14"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 1,
+              "feedback" : "only you are standing on floor"
+	}
+,
+
+	{
+		 "question" : "How many Blocks?",
+                 "qimage":"http://i0.wp.com/puzzlersworld.com/wp/wp-content/uploads/2013/04/how-many-blocks.jpg?w=330",
+		 "answers"  : [
+			{"id"  : 0, "text" : "10"},
+			{"id"  : 1, "text" : "9"},
+			{"id"  : 2, "text" : "7"},
+			{"id"  : 3, "text" : "5"}
+			
+		],
+		"correct"  : 1
+              
+	}
+,
+
+
+	{
+		 "question" : "Which is the top view?",
+                 "qimage":"http://i0.wp.com/puzzlersworld.com/wp/wp-content/uploads/2013/04/Test-your-intelligence-Which-is-the-top-view.jpg?w=480",
+		 "answers"  : [
+			{"id"  : 0, "text" : "a"},
+			{"id"  : 1, "text" : "b"},
+			{"id"  : 2, "text" : "c"},
+			{"id"  : 3, "text" : "d"}
+			
+		],
+		"correct"  : 2
+              
+	}
+,
+
+
+	{
+		 "question" : "Decode Happy",
+                 "qimage":"http://i0.wp.com/puzzlersworld.com/wp/wp-content/uploads/2013/04/decode-happy2.png?w=459",
+		 "answers"  : [
+			{"id"  : 0, "text" : "a"},
+			{"id"  : 1, "text" : "b"},
+			{"id"  : 2, "text" : "c"},
+			{"id"  : 3, "text" : "d"}
+			
+		],
+		"correct"  : 2
+              
+	}
+,
+
+
+	{
+		 "question" : "How many cats?",
+                 "qimage":"http://i1.wp.com/puzzlersworld.com/wp/wp-content/uploads/2013/03/how-many-cats.jpg?w=403",
+		 "answers"  : [
+			{"id"  : 0, "text" : "2"},
+			{"id"  : 1, "text" : "3"},
+			{"id"  : 2, "text" : "4"},
+			{"id"  : 3, "text" : "6"}
+			
+		],
+		"correct"  : 1
+              
+	}
+,
+
+
+	{
+		 "question" : "What should be the next circle ??",
+                 "qimage":"http://i0.wp.com/puzzlersworld.com/wp/wp-content/uploads/2013/03/picture-puzzle-circle-dot-and-line.png?resize=291%2C206",
+		 "answers"  : [
+			{"id"  : 0, "text" : "a"},
+			{"id"  : 1, "text" : "b"},
+			{"id"  : 2, "text" : "c"},
+			{"id"  : 3, "text" : "d"}
+			
+		],
+		"correct"  : 2
+              
+	}
+,
+
+
+	{
+		 "question" : "How many animals ??",
+                 "qimage":"http://i0.wp.com/puzzlersworld.com/wp/wp-content/uploads/2013/01/how-many-animals-do-you-see.png?resize=374%2C279",
+		 "answers"  : [
+			{"id"  : 0, "text" : "3"},
+			{"id"  : 1, "text" : "4"},
+			{"id"  : 2, "text" : "5"},
+			{"id"  : 3, "text" : "6"}
+			
+		],
+		"correct"  : 3
+              
+	}
+,
+
+
+	{
+		 "question" : "Count the number of circles in the image below??",
+                 "qimage":"http://i0.wp.com/puzzlersworld.com/wp/wp-content/uploads/2013/01/how-many-circles-do-you-see.jpg?resize=547%2C600",
+		 "answers"  : [
+			{"id"  : 0, "text" : "10"},
+			{"id"  : 1, "text" : "13"},
+			{"id"  : 2, "text" : "17"},
+			{"id"  : 3, "text" : "20"}
+			
+		],
+		"correct"  : 2
+              
+	}
+,
+
+
+	{
+		 "question" : "Guess the number of Freedom Fighters??",
+                 "qimage":"http://i0.wp.com/puzzlersworld.com/wp/wp-content/uploads/2012/12/freedom-fighters-11.jpg?w=400",
+		 "answers"  : [
+			{"id"  : 0, "text" : "10"},
+			{"id"  : 1, "text" : "13"},
+			{"id"  : 2, "text" : "17"},
+			{"id"  : 3, "text" : "20"}
+			
+		],
+		"correct"  : 0
+              
+	}
+,
+
+
+	{
+		 "question" : "Guess the company name??",
+                 "qimage":"http://i1.wp.com/puzzlersworld.com/wp/wp-content/uploads/2012/12/1.gif?resize=166%2C167",
+		 "answers"  : [
+			{"id"  : 0, "text" : "adobe"},
+			{"id"  : 1, "text" : "american express"},
+			{"id"  : 2, "text" : "apple"},
+			{"id"  : 3, "text" : "appmaker"}
+			
+		],
+		"correct"  : 0
+              
+	}
+,
+
+
+	{
+		 "question" : "Guess the company name??",
+                 "qimage":"http://i1.wp.com/puzzlersworld.com/wp/wp-content/uploads/2012/12/1.gif?resize=166%2C167",
+		 "answers"  : [
+			{"id"  : 0, "text" : "adobe"},
+			{"id"  : 1, "text" : "american express"},
+			{"id"  : 2, "text" : "apple"},
+			{"id"  : 3, "text" : "appmaker"}
+			
+		],
+		"correct"  : 0
+              
+	}
+]

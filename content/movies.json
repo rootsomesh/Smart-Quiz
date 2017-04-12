@@ -1,0 +1,409 @@
+[
+	{
+		"question" : "guess the movie name?",
+        "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/5e6bdd8f-02a5-46b3-ad2f-b70a8ed60e3c.jpg",
+		"answers"  : [
+			{"id"  : 0, "text" : "titanic"},
+			{"id"  : 1, "text" : "hamlet"},
+			{"id"  : 2, "text" : "sense and sensibility"},
+			{"id"  : 3, "text" : "romio juliet"}
+		],
+		"correct"  : 0
+	},
+	{
+		"question" : "guess the movie name?",
+        "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/4a657daf-e121-4b18-9805-b441954141d0.jpg",
+		"answers"  : [
+			{"id"  : 0, "text" : "toy story" },
+			{"id"  : 1,"text" : "the lion king" },
+			{"id"  : 2, "text" : "ice age" },
+			{"id"  : 3, "text" : "herculas" }
+		],
+		"correct"  : 1
+	},
+    
+	{
+		"question" : "guess the movie name?",
+        "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/73c581e5-8237-43cb-933b-b03fda6b35d4.jpg",
+		"answers"  : [
+			{"id"  : 0, "text" : "jakie brown"},
+			{"id"  : 1, "text" : "pulp fiction"},
+			{"id"  : 2, "text" : "a time to kill"},
+			{"id"  : 3, "text" : "none"}
+		],
+		"correct"  : 1
+	},
+	{
+		"question" : "guess the movie name?",
+                 
+        "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/f76910af-2be1-40a9-bd3a-d063481f0bad.jpg" ,
+		"answers"  : [
+			{"id"  : 0, "text" : "the terminal"},
+			{"id"  : 1, "text" : "steel mangolias"},
+			{"id"  : 2, "text" : "forest gump"},
+			{"id"  : 3, "text" : "none"}
+			
+        ] ,
+		"correct"  : 2
+		
+    } ,
+
+	{
+		"question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/8efbb813-9f65-4c79-8b4c-baa28f7aa78d.jpg",
+		"answers"  : [
+			{"id"  : 0, "text" : "sixth sense"},
+			{"id"  : 1, "text" : "48 hours"},
+			{"id"  : 2, "text" : "the welcome"},
+			{"id"  : 3, "text" : "reservoir dog"}
+			
+		],
+		"correct"  : 0
+	}
+,
+
+	{
+		"question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/827da4d2-cd86-46c4-bfe7-83c71a57400d.jpg",
+		"answers"  : [
+			{"id"  : 0, "text" : "jhoney suede"},
+			{"id"  : 1, "text" : "48 hours"},
+			{"id"  : 2, "text" : "air force"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 2
+	}
+
+
+,
+
+	{
+		"question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/8e93655c-b20d-42ec-9dbe-c2fc6ca60ce0.jpg",
+		"answers"  : [
+			{"id"  : 0, "text" : "bad boys"},
+			{"id"  : 1, "text" : "men in black"},
+			{"id"  : 2, "text" : "hancock"},
+			{"id"  : 3, "text" : "indpence day"}
+			
+		],
+		"correct"  : 1
+	}
+,
+
+	{
+		 "question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/a5b86a84-b168-4a85-ac65-705876078ce8.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "mrs doubtfire"},
+			{"id"  : 1, "text" : "jumanji"},
+			{"id"  : 2, "text" : "patch adams"},
+			{"id"  : 3, "text" : "a dead poet socity"}
+			
+		],
+		"correct"  : 0
+	}
+
+,
+
+	{
+		"question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/895aaabf-4f75-4f14-ae3e-c4c8d2447a56.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "aladin"},
+			{"id"  : 1, "text" : "the lion king"},
+			{"id"  : 2, "text" : "up"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 3
+	}
+
+,
+
+	{
+		 "question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/6aa4c102-1f00-4929-aa7a-aa8ea2706b59.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "bourne identity"},
+			{"id"  : 1, "text" : "saving private ryan"},
+			{"id"  : 2, "text" : "good will hunting"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 1
+	}
+
+,
+
+	{
+		 "question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/8088a9c4-2588-4969-8400-a61447dbe040.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "terminator 2"},
+			{"id"  : 1, "text" : "armaggadon"},
+			{"id"  : 2, "text" : "kindergarten cope"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 0
+	}
+,
+
+	{
+		"question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/db87f889-29f6-4cfd-8348-d29546474e46.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : " a space oddecy"},
+			{"id"  : 1, "text" : "intersteller"},
+			{"id"  : 2, "text" : "graavity"},
+			{"id"  : 3, "text" : "armaggadon"}
+			
+		],
+		"correct"  : 3
+	}
+,
+
+	{
+		 "question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/5b85ebea-81c0-4521-bb16-b24c5717e332.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "liar liar"},
+			{"id"  : 1, "text" : "trueman show"},
+			{"id"  : 2, "text" : "yes man"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 0
+	}
+,
+
+	{
+		 "question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/84bd561d-3d89-4ae0-86f8-4965525717f7.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "the talented"},
+			{"id"  : 1, "text" : "a river gun through it"},
+			{"id"  : 2, "text" : "mission impossible"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 1
+	}
+,
+
+	{
+		 "question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/7ed71240-3711-495d-8217-bb193eabfbde.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "home alone"},
+			{"id"  : 1, "text" : "toy story"},
+			{"id"  : 2, "text" : "kid are all right"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 0
+	}
+,
+
+	{
+		  "question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/78823bb1-d715-4ac6-ada0-f13bcfd0f87e.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "L A confidential"},
+			{"id"  : 1, "text" : "good fellas"},
+			{"id"  : 2, "text" : "the matrix"},
+			{"id"  : 3, "text" : "sixth sense"}
+			
+		],
+		"correct"  : 2
+	}
+,
+
+	{
+		 
+		  "question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/739364c6-5986-417d-8c0c-9fbb93dfc0cf.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "the waterworld"},
+			{"id"  : 1, "text" : "dance and wolves"},
+			{"id"  : 2, "text" : "robinhood"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 2
+	}
+,
+
+	{
+		 "question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/6f5bbf1f-e316-4504-8b0c-67922c87567e.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "the mummy"},
+			{"id"  : 1, "text" : "rescuras down under"},
+			{"id"  : 2, "text" : "back to future"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 0
+	}
+,
+
+	{           "question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/77beeff4-6adf-4324-946d-d71f77c249ad.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "mars attack"},
+			{"id"  : 1, "text" : "as good as it gets"},
+			{"id"  : 2, "text" : "a few good men"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 1
+              
+	}
+,
+
+	{
+		 "question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/38875d04-48f7-4f1b-8e6b-31d6de48891e.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "mangolia"},
+			{"id"  : 1, "text" : "the firm"},
+			{"id"  : 2, "text" : "a few good men"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 2
+              
+	   }
+,
+
+
+	{
+		  "question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/e41fad4b-32a3-4c03-91bd-51a5e5e8c9e0.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "awekenings"},
+			{"id"  : 1, "text" : "the talented mr ripley"},
+			{"id"  : 2, "text" : "goodwill hunting"},
+			{"id"  : 3, "text" : "what dreams may come"}
+			
+		],
+		"correct"  : 2
+              
+	}
+,
+
+
+	{         "question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/7f4294c3-ea71-4755-82e5-12391c18c9e2.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "seven"},
+			{"id"  : 1, "text" : "fight club"},
+			{"id"  : 2, "text" : "sleepers"},
+			{"id"  : 3, "text" : "meet joe black"}
+			
+		],
+		"correct"  : 0
+              
+	}
+,
+
+
+	{
+		 "question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/a8a53910-bae9-44a1-8253-921b55a91bf8.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "sin city"},
+			{"id"  : 1, "text" : "life is beautiful"},
+			{"id"  : 2, "text" : "schindler list"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 2
+              
+	}
+,
+
+
+	{
+		 
+		 "question" : "guess the movie name?",
+                 "qimage":"http://cdn.playbuzz.com/cdn/dd309a21-0df8-4d22-8d0c-3599b0fae15c/605d9593-1639-4988-88f6-0dd23ef4aae2.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "the english patient"},
+			{"id"  : 1, "text" : "unforgiven"},
+			{"id"  : 2, "text" : "the big lebowski"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 2
+              
+	}
+,
+
+
+	{
+		 "question" : "guess the movie name?",
+                 "qimage":"http://images.mentalfloss.com/sites/default/files/styles/article_640x430/public/shawshank_primary.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "shawshank redemption"},
+			{"id"  : 1, "text" : "red redemptiion"},
+			{"id"  : 2, "text" : "now u see me"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 0
+              
+	}
+,
+
+
+	{
+		 "question" : "guess the movie name?",
+         "qimage":"http://images2.fanpop.com/image/photos/8800000/The-Pianist-photo-the-pianist-8868551-871-585.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "the pianist"},
+			{"id"  : 1, "text" : "king kong"},
+			{"id"  : 2, "text" : "unforgiven"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 0
+              
+	}
+,
+
+
+	{
+		 "question" : "guess the movie name?",
+                 "qimage":"http://media.salemwebnetwork.com/cms/CW/entertainment/movies_tv/12234-BirdmanWide.1200w.tn.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "batman"},
+			{"id"  : 1, "text" : "superman"},
+			{"id"  : 2, "text" : "birdman"},
+			{"id"  : 3, "text" : "none"}
+			
+		],
+		"correct"  : 2
+              
+	}
+,
+
+
+	{
+		 "question" : "guess the movie name?",
+                 "qimage":"http://wallpapersend.com/wp-content/uploads/2016/02/mystic-river81816.jpg",
+		 "answers"  : [
+			{"id"  : 0, "text" : "go"},
+			{"id"  : 1, "text" : "i am sam"},
+			{"id"  : 2, "text" : "21 gram"},
+			{"id"  : 3, "text" : "mystic river"}
+			
+		],
+		"correct"  : 3
+              
+	}
+
+]

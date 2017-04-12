@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+   <link href="https://s3.amazonaws.com/codecademy-content/projects/bootstrap.min.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Roboto:500,300,700,400' rel='stylesheet'     type='text/css'>                                        
+    <link href="css/main.css" rel="stylesheet" />          
+
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular.min.js"></script>
+    <link data-require="bootstrap-css@3.3.6" data-semver="3.3.6" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://code.angularjs.org/1.2.28/angular-route.min.js"></script>
+    <style>
+      form { margin: 0px 10px; }
+
+h2 {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.container { max-width: 360px; }
+
+.divider {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.divider hr {
+  margin: 7px 0px;
+  width: 35%;
+}
+
+.left { float: left; }
+
+.right { float: right; }
+
+    </style>
+  </head>
+  <body>
+
+  
+   <div class="container">
+		<div class="row">
+			<div class="panel panel-primary">
+				<div class="panel-body">
+					<form method="POST"  role="form"  name="myForm">
+						<div class="form-group">
+							<h2>Create account</h2>
+						</div>
+						<div class="form-group">
+							<label class="control-label" for="signupName">Your name</label>
+							<input id="signupName" name="signupName"  type="text" maxlength="50" class="form-control" ng-model="info.signupName" required>
+                                                        <span style="color:red" ng-show="myForm.signupName.$dirty && myForm.signupName.$invalid">
+                                                        <span ng-show="myForm.signupName.$error.required">Username is required.</span>
+                                                        </span>   
+						</div>
+						<div class="form-group">
+							<label class="control-label" for="signupEmail">Email</label>
+							<input id="signupEmail" name="signupEmail"  placeholder="a valid email" type="email" maxlength="50" class="form-control" ng-model="info.signupEmail" required>
+                                                         <span style="color:red" ng-show="myForm.signupEmail.$dirty && myForm.signupEmail.$invalid">
+                                                         <span ng-show="myForm.signupEmail.$error.required">Email is required.</span>
+                                                         <span ng-show="myForm.signupEmail.$error.email">Invalid email address.</span>
+                                                         </span>
+						</div>
+					
+						<div class="form-group">
+							<label class="control-label" for="signupPassword">Password</label>
+							<input id="password" name="password" type="password" maxlength="25" class="form-control" placeholder="at least 6 characters" length="40"     ng-model="password" ng-minlength="6" ng-maxlength="20"  required>
+					<span ng-show="myForm.password.$error.required && myForm.password.$dirty">required</span>
+                                        <span ng-show="!myForm.password.$error.required && (myForm.password.$error.minlength || myForm.password.$error.maxlength) ">Passwords must be between 6 and 20 characters.</span>	
+
+                                                      </div>
+						
+						
+       <div class="form-group">
+							<button id="signupSubmit" type="submit"  ng-click="showHello()" class="btn btn-info btn-block"  ng-disabled="!myForm.$valid">Create your account</button>
+						</div>
+						<p class="form-group">By creating an account, you agree to our <a href="#">Terms of Use</a> and our <a href="#">Privacy  Policy</a>.</p>
+						<hr>
+						<p>Already have an account? <a href="#/login">Sign in</a></p>
+          
+				 </form>
+				</div>
+			</div>
+		</div>
+	</div>
+  
+  </body>
+
+</html>
